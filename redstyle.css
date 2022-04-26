@@ -81,4 +81,9 @@ body .error {
 }
 body .warning {
   background-color: rgb(255, 166, 1);
-}/*# sourceMappingURL=style.css.map */
+}
+
+body {
+  background-color: rgb(34, 68, 68);
+  color: red;
+}/*# sourceMappingURL=redstyle.css.map */
